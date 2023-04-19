@@ -22,6 +22,10 @@ header {
     align-items: center;
     padding: 24px 10%;
 }
+.minamiPadding {
+    text-align: center;
+    padding: 24px 10%;
+}
 
 .headerEmpty {
     width: 50%;
@@ -32,6 +36,7 @@ header {
     width: 4%;
     height: auto;
 }
+.minamiLogo 
 
 .headerHamburger {
     width: 50px;
